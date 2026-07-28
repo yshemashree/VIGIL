@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30454787/README.md)
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI-XGBoost-blue?style=for-the-badge&logo=xgboost" alt="XGBoost" />
   <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi" alt="FastAPI" />
