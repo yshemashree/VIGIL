@@ -1,0 +1,73 @@
+# ========================
+#  Python / Backend
+# ========================
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+*.whl
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# ========================
+#  Node / Frontend
+# ========================
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+frontend/.vercel/
+.npm
+*.tsbuildinfo
+
+# ========================
+#  Environment & Secrets
+# ========================
+.env
+.env.local
+.env.*.local
+*.pem
+
+# ========================
+#  OS Files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# ========================
+#  IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.code-workspace
+
+# ========================
+#  Model Artifacts (large)
+# ========================
+# Uncomment if you don't want to track trained models:
+# backend/models/*.joblib
+
+# ========================
+#  Misc
+# ========================
+*.bak
+*.tmp
+*.pid
+ARCHITECTURE_DIAGRAM_PROMPT.md
+FLOW_DIAGRAM_PROMPT.md
+.next/
+node_modules/
